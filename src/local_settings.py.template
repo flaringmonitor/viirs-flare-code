@@ -1,0 +1,6 @@
+# EXAMPLE LOCAL SETTINGS FILE, PLEASE SET YOUR OWN PASSWORD!
+POSTGRES_STRING='host=HOST port=5432 dbname=flaredb user=flare_user password=**YOUR_PASSWORD**'
+
+# for use by shell scripts wanting to use this connection string
+if __name__ == "__main__":
+    print(POSTGRES_STRING)
