@@ -3,7 +3,7 @@ set -e
 
 ME=$(readlink -f "$0")
 BASE=$(dirname "$ME")
-DATA="$BASE/../../viirs-flare-data/csv"
+DATA="$BASE/../../viirs-flare-data/raw"
 
 cd "$BASE/csv"
 
