@@ -38,7 +38,7 @@ If you run into any issues or facing challenges in recreating the methodology or
 
 **References**  
 
-[1]. Elvidge, C.D.; Zhizhin, M.; Hsu, F.-C.; Baugh, K.E. VIIRS Nightfire: Satellite Pyrometry at Night. _Remote Sens._  **2013** , _5_, 4423-4449. [https://doi.org/10.3390/rs5094423](https://doi.org/10.3390/rs5094423)
+[1]. Elvidge, Christopher D., Mikhail Zhizhin, Feng-Chi Hsu, and Kimberly E. Baugh. “VIIRS nightfire: Satellite pyrometry at night.” Remote Sensing 5, no. 9 (2013): 4423-4449.
 
 [2]. Elvidge, C.D.; Zhizhin, M.; Baugh, K.; Hsu, F.-C.; Ghosh, T. Methods for Global Survey of Natural Gas Flaring from Visible Infrared Imaging Radiometer Suite Data. _Energies_  **2016** , _9_, 14. [https://doi.org/10.3390/en9010014](https://doi.org/10.3390/en9010014)
 
