@@ -79,4 +79,7 @@ This section details the steps to update the raw data for future processing. Do 
 
    a. This will build a new timestamped set of tables using previously computed historic data combined with several months look back based on the load of new data. 
 
+**References**  
+
+[1]. Elvidge, Christopher D., Mikhail Zhizhin, Feng-Chi Hsu, and Kimberly E. Baugh. “VIIRS nightfire: Satellite pyrometry at night.” Remote Sensing 5, no. 9 (2013): 4423-4449.
 
